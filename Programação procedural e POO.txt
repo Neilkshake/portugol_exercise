@@ -1,0 +1,8 @@
+A programação procedural é um paradigma de programação que se concentra em escrever um código sequencial que consiste em uma série de procedimentos ou funções. Ela se baseia na ideia de que um programa pode ser dividido em uma sequência de etapas, onde cada etapa é um procedimento que realiza uma determinada tarefa. Esses procedimentos podem receber argumentos, executar um conjunto de instruções e retornar um valor, se necessário.
+
+
+
+Já a programação orientada a objetos (POO) é um paradigma de programação que se baseia na organização do código em objetos, que são instâncias de classes. Uma classe é um modelo que define a estrutura e o comportamento de um objeto. Ela encapsula dados (atributos) e as operações (métodos) que podem ser realizadas nesses dados. A POO enfatiza a interação entre objetos, onde objetos podem se comunicar entre si através de mensagens, realizando operações e trocando informações. Além disso, a herança é um conceito importante na POO, permitindo a criação de novas classes com base em classes já existentes, compartilhando seus atributos e métodos.
+
+
+

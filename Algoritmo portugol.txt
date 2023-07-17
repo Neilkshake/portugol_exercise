@@ -1,0 +1,43 @@
+Algoritmo AcoesMatutinas
+
+Inicio
+    Escrever("Ações Matutinas:")
+
+    Escrever("1. Despertar")
+    Se (despertadorTocando = verdadeiro) Entao
+        Escrever("   - Desligar o despertador")
+    FimSe
+    Escrever("   - Levantar da cama")
+
+    PularLinha()
+
+    Escrever("2. Higienizar")
+    Escrever("   - Escovar os dentes")
+    Se (estouComSono = verdadeiro) Entao
+        Escrever("   - Lavar o rosto")
+    FimSe
+    Escrever("   - Tomar banho")
+
+    PularLinha()
+
+    Escrever("3. Vestir")
+    Se (tenhoCompromisso = verdadeiro) Entao
+        Escrever("   - Escolher uma roupa adequada")
+    FimSe
+    Escrever("   - Vestir-se")
+
+    PularLinha()
+
+    Escrever("4. Tomar café da manhã")
+    Se (tenhoTempo = verdadeiro) Entao
+        Escrever("   - Preparar e comer uma refeição saudável")
+        Se (gostoDeCafe = verdadeiro) Entao
+            Escrever("   - Beber uma xícara de café")
+        Senao
+            Escrever("   - Beber uma xícara de chá")
+        FimSe
+    Senao
+        Escrever("   - Pular o café da manhã por falta de tempo")
+    FimSe
+
+FimAlgoritmo
